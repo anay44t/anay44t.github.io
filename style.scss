@@ -23,10 +23,15 @@ div {
     padding-left: 80px;
 }
 
-
 body {
-    background-image: https://www.planwallpaper.com/static/images/9Zk2kcY.jpg("bgdesert.jpg");
+  background-image: url("/images/easyspelling.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-size: 35px/2.3 "Georgia";
+  color: #000000;
 }
+
 
 body {
     background-color: #f40000;
