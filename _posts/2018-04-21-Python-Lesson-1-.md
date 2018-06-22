@@ -70,5 +70,6 @@ published: true
     <td>I will try and start the python course straight away and maybe I will finish it. I can improve my learning by asking the teacher for help if google or codecademy can't help.</td>
   </tr>
 </table>
+<img src = "/images/Screenshot 2018-06-22 at 14.04.57.png">
 
 
